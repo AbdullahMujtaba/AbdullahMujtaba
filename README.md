@@ -7,24 +7,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullahmujtaba&label=Profile%20views&color=0e75b6&style=flat" alt="abdullahmujtaba" /> </p>
 
-<table>
-  <tr>
-    <td>
-      <p align="left"> 
-        <img src="https://media.licdn.com/dms/image/v2/C4D12AQEeKAn9dPLbhw/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1616667695311?e=2147483647&v=beta&t=kTwpM9lkrrnW7rxZG1tjv8zzaaCC27Kss09MVDh-49M" alt="abdullahmujtaba" width="120"/> 
-      </p>
-    </td>
-    <td>
-      <ul>
-        <li>🌱 I’m currently learning <strong>gym, sklearn, keras, Django, Flask and Streamlit.</strong></li>
-        <li>👨‍💻 All of my projects will be available here on <a href="https://github.com/AbdullahMujtaba">GitHub</a></li>
-        <li>💬 Ask me about <strong>Python, Crypto, Creative Programming, ML and DL.</strong></li>
-        <li>📫 How to reach me: <strong>mianabdullah0200@gmail.com</strong></li>
-        <li>⚡ Fun fact: <strong>I am innovative and have great knowledge in Crypto.</strong></li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<div style="display: flex; align-items: center;">
+  <img src="https://media.licdn.com/dms/image/v2/C4D12AQEeKAn9dPLbhw/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1616667695311?e=2147483647&v=beta&t=kTwpM9lkrrnW7rxZG1tjv8zzaaCC27Kss09MVDh-49M" alt="abdullahmujtaba" width="120" style="margin-right: 20px;"/>
+
+  <ul>
+    <li>🌱 I’m currently learning <strong>gym, sklearn, keras, Django, Flask and Streamlit.</strong></li>
+    <li>👨‍💻 All of my projects will be available here on <a href="https://github.com/AbdullahMujtaba">GitHub</a></li>
+    <li>💬 Ask me about <strong>Python, Crypto, Creative Programming, ML and DL.</strong></li>
+    <li>📫 How to reach me: <strong>mianabdullah0200@gmail.com</strong></li>
+    <li>⚡ Fun fact: <strong>I am innovative and have great knowledge in Crypto.</strong></li>
+  </ul>
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
