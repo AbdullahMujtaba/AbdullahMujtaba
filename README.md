@@ -1,3 +1,7 @@
+<h1 align="center">
+    <img src="https://media.licdn.com/dms/image/v2/C4D12AQEeKAn9dPLbhw/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1616667695311?e=2147483647&v=beta&t=kTwpM9lkrrnW7rxZG1tjv8zzaaCC27Kss09MVDh-49M" alt="Banner" />
+</h1>
+
 <h1 align="center">Hi everyone, Myself Abdullah Mujtaba</h1>
 <h3 align="center">I'm a professional "Data Analyst" with a passion for leveraging "Python" and "Artificial Intelligence" to solve complex real-life problems.</h3>
 
