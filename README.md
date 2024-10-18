@@ -5,11 +5,9 @@
 <h1 align="center">Hi everyone, Myself Abdullah Mujtaba</h1>
 <h3 align="center">I'm a professional "Data Analyst" with a passion for leveraging "Python" and "Artificial Intelligence" to solve complex real-life problems.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullahmujtaba&label=Profile%20views&color=0e75b6&style=flat" alt="abdullahmujtaba" /> </p>
+<img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGhyZHE0bWh0cnVxb3dzdnNiamFza3VmODBuOWY5bzB4aXV3aWxxbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0lGd2OXXHe4tFhb7Wh/giphy.gif">
 
-<p align="right"> 
-  <img src="https://media.licdn.com/dms/image/v2/C4D12AQEeKAn9dPLbhw/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1616667695311?e=2147483647&v=beta&t=kTwpM9lkrrnW7rxZG1tjv8zzaaCC27Kss09MVDh-49M" alt="abdullahmujtaba" width="360" align="left" style="margin-right: 20px;"/>
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullahmujtaba&label=Profile%20views&color=0e75b6&style=flat" alt="abdullahmujtaba" /> </p>
 
 - 🌱 I’m currently learning <strong>gym, sklearn, keras, Django, Flask and Streamlit.</strong>
 - 👨‍💻 All of my projects will be available here on <a href="https://github.com/AbdullahMujtaba">GitHub</a>
