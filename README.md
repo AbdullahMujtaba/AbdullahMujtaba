@@ -7,8 +7,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullahmujtaba&label=Profile%20views&color=0e75b6&style=flat" alt="abdullahmujtaba" /> </p>
 
-<p align="left"> 
-  <img src="https://media.licdn.com/dms/image/v2/C4D12AQEeKAn9dPLbhw/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1616667695311?e=2147483647&v=beta&t=kTwpM9lkrrnW7rxZG1tjv8zzaaCC27Kss09MVDh-49M" alt="abdullahmujtaba" width="120" align="left" style="margin-right: 20px;"/>
+<p align="right"> 
+  <img src="https://media.licdn.com/dms/image/v2/C4D12AQEeKAn9dPLbhw/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1616667695311?e=2147483647&v=beta&t=kTwpM9lkrrnW7rxZG1tjv8zzaaCC27Kss09MVDh-49M" alt="abdullahmujtaba" width="360" align="left" style="margin-right: 20px;"/>
 </p>
 
 - 🌱 I’m currently learning <strong>gym, sklearn, keras, Django, Flask and Streamlit.</strong>
